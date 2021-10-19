@@ -1,6 +1,6 @@
 # Export Data To Excel Example
 
-Exemplo de como gerar arquivo excel no C# utilizando a biblioteca NPOI
+Exemplo de como gerar arquivo excel no C# e WebApi (.NET 5) utilizando a biblioteca NPOI
 
 ---
 

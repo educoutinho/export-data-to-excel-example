@@ -8,7 +8,7 @@ using System.IO;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace ExportDataToExcelSample.Webapi.Controllers
+namespace ExportDataToExcelExample.Webapi.Controllers
 {
     [ApiController]
 	[Route("[controller]")]

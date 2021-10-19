@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "ExportDataToExcelSample.Webapi": {
+    "ExportDataToExcelExample.Webapi": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
